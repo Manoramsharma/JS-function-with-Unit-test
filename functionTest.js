@@ -21,4 +21,4 @@ describe('solution', () => {
       expect(solution(input)).toEqual(expectedOutput);
     });
   });
-  
+  // Additional tests can also be written to ensure full coverage of the function's behavior.
